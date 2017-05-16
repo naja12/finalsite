@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+body {
+  font-family: "Raleway", sans-serif; /* fix this font */
+  background-color:#b3ffcc;
+  color: #black;
+  text-align: center;
+}
